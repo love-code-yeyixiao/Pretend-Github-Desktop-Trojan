@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs/Github Desktop
+/Github Desktop/x64/Debug
+/x64/Debug
+/Github Desktop/small2.ico
+/Github Desktop/Github Desktop2.ico
+/Github Desktop/Github Desktop.aps
